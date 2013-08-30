@@ -1,0 +1,6 @@
+name: Zephyrizing
+author: Geoff Shannon
+tagline: Thoughts on cast-iron seasoning, programming and everything...
+
+markdown: redcarpet
+pygments: true
