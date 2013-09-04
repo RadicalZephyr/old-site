@@ -2,6 +2,7 @@
 title: Why Am I Doing This?
 layout: main.html
 ---
+
 It's weird, but I feel like I've been peer pressured into starting
 this blog.  Not that anyone has ever said "Geoff, you really need to
 start a blog."  It just seems like the thing to do.  More importantly,
