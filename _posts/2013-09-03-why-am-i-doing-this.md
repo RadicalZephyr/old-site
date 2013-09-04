@@ -1,6 +1,7 @@
 ---
 title: Why Am I Doing This?
-layout: main.html
+layout: main
+comments: true
 ---
 
 It's weird, but I feel like I've been peer pressured into starting
