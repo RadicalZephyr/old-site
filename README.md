@@ -1,4 +1,4 @@
-ezephyr.github.io
+radicalzephyr.github.io
 =================
 
 My website/blog
