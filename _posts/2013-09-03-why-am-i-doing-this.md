@@ -85,3 +85,8 @@ electric stove-top to medium in preparation for frying up some eggs
 for breakfast (which didn't happen).  So the pan slowly cooked it's
 way through the seasoning, and when I got back the bottom of the
 skillet was nice and grey, and covered in a fine black dust.
+
+I used to get really upset every time this happened. Now, I've come to
+be much more Zen about it, and accept the impermanence of the
+seasoning on my pan. Now, I sort of regard almost as an opportunity to
+try to re-season it again.
