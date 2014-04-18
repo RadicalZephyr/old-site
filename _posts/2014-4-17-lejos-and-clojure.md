@@ -6,15 +6,14 @@ comments: true
 
 This is a short followup to my first post about
 [experimenting with the Lego EV3's](
-{% post_url 2013-09-03-why-am-i-doing-this %})
-
-and [leJOS]. Shortly after I wrote that post, I went on the
-Clojure IRC channel and talked to [Phil Hagelberg][technomancy] and
-some other helpful folks about my issues. They steered me away from
-attempting to install [Leiningen] on the EV3 itself, which was a
-relief since I think that way lay madness. Instead, they suggested
-that I have a small launcher program that would just setup a
-REPL. Then I could run my robot-controlling Clojure code from there.
+{% post_url 2013-09-03-why-am-i-doing-this %}) and [leJOS]. Shortly
+after I wrote that post, I went on the Clojure IRC channel and talked
+to [Phil Hagelberg][technomancy] and some other helpful folks about my
+issues. They steered me away from attempting to install [Leiningen] on
+the EV3 itself, which was a relief since I think that way lay
+madness. Instead, they suggested that I have a small launcher program
+that would just setup a REPL. Then I could run my robot-controlling
+Clojure code from there.
 
 This advice led to the creation of [ev3-nrepl]. It's basically a small
 skeleton Clojure project to provide the basis for running Clojure code
