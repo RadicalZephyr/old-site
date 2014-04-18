@@ -32,16 +32,17 @@ minutes until they were completely dry.  When I got my own cast iron
 however, I decided that I wanted to know more about how to really
 properly care for cast-iron.  But I was sorely disappointed by the
 collective knowledge that I found on the internet.  Most of it was
-only half complete, or simply somewhat vague.  Then there was a
-folklore-ish aspect to some of it.  I was recently told with great
+only half complete, or simply vague.  Some pages sounded more like
+urban legend than actual advice.  I was recently told with great
 conviction that the one thing you absolutely cannot do is submerge a
-cast-iron pan in soapy water.
+cast-iron pan in soapy water; as though this would cause it to shatter
+instantly.
 
 This has started to change.  In about ten seconds of googling today
-(September 2013), I found one [blog post by Sheryl Canter][castchem] that
-talks exactly about the chemistry of cast iron seasoning.  But at the
-time, the situation was exactly as Sheryl Canter describes, lots of
-mutually conflicting information with very few common threads.
+(September 2013), I found one [blog post by Sheryl Canter][castchem]
+that talks specifically about the chemistry of cast iron seasoning.
+But at the time, the situation was exactly as Sheryl Canter describes,
+lots of mutually conflicting information with very few common threads.
 
 [castchem]: http://sherylcanter.com/wordpress/2010/01/a-science-based-technique-for-seasoning-cast-iron/
 
