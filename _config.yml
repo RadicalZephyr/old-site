@@ -2,6 +2,8 @@ name: Zephyrizing
 author: Geoff Shannon
 tagline: Ruminations on education, programming, and whatever else I feel like talking about.
 
+discourse_url: https://discourse.zephyrizing.net/
+
 pygments: true
 markdown: kramdown
 
