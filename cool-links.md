@@ -42,3 +42,9 @@ layout: main
  - http://fluff.info/terrible/
  - http://online.wsj.com/news/articles/SB10001424052702303978304579473501943642612
  - http://fluff.info/blog/pdfs/argue.pdf
+ - http://www.glowingfaceman.com/2009/01/homeless-by-choice.html
+ - http://www.whattofix.com/blog/archives/2009/02/technology_is_h.php
+ - http://www.adambossy.com/blog/2009/02/19/the-paradox-of-self-education/
+ - http://douglasadams.com/dna/19990901-00-a.html
+ - http://www.arthurmag.com/2009/03/16/let-it-die-rushkoff-on-the-economy/
+ - http://www.uwgb.edu/dutchs/PSEUDOSC/WhyAntiInt.htm
