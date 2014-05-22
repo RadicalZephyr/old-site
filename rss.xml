@@ -19,10 +19,9 @@ layout: nil
       <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
       <author>you@example.com (Your Name)</author>
       <guid>http://example.com{{ post.id }}</guid>
-      <description>{{ post.content | xml_escape }}</description>
+      <description>{{ post.excerpt | xml_escape }}</description>
     </item>
     {% endfor %}
 
   </channel>
 </rss>
-
