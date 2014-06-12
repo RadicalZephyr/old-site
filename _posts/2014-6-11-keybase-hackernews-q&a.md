@@ -22,10 +22,10 @@ security-savvy than I thought about Keybase.
 The results were somewhat of a mixed bag. In no particular order, I
 read:
 
-- http://blog.lrdesign.com/2014/03/thoughts-on-keybase-io/
-- http://www.tbray.org/ongoing/When/201x/2014/03/19/Keybase
-- https://filippo.io/on-keybase-dot-io-and-encrypted-private-key-sharing/
-- http://blog.lizdenys.com/2014/03/31/refusing-to-verify-myself/
+- [A thoughtful critique](http://blog.lrdesign.com/2014/03/thoughts-on-keybase-io/)
+- [A nice first look](http://www.tbray.org/ongoing/When/201x/2014/03/19/Keybase)
+- [A response to the people decrying the upload private key feature](https://filippo.io/on-keybase-dot-io-and-encrypted-private-key-sharing/)
+- [A brief look at the chain of trust in even getting Keybase](http://blog.lizdenys.com/2014/03/31/refusing-to-verify-myself/)
 
 I also came across the discussion that occurred on Hacker News shortly
 after Keybase first appeared. As so often happens when I stumble on to
