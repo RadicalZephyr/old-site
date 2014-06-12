@@ -37,9 +37,11 @@ itself.
 So I volunteered myself for a public service. I extracted the parts of
 the discussion that were interesting and relevant into a text
 document. I tried to focus on the questions that got interesting
-responses. I left out many little asides, and tangential
-discussions.
+responses. I left out many little asides, and tangential discussions.
 
+Without further ado:
+
+### General Announcement
 
 malgorithms 118 days ago
 
