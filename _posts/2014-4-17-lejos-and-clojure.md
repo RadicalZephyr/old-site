@@ -1,5 +1,5 @@
 ---
-title: LeJOS and Clojure
+title: "LeJOS and Clojure"
 layout: main
 comments: true
 ---

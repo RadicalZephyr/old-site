@@ -1,5 +1,5 @@
 ---
-title: The Summary and Evaluation - How I Figured Out Why I Went to College
+title: "The Summary and Evaluation - How I Figured Out Why I Went to College"
 layout: main
 comments: true
 ---

@@ -1,5 +1,5 @@
 ---
-title: Clojure, LeJOS and EV3
+title: "Clojure, LeJOS and EV3"
 layout: main
 comments: true
 ---
