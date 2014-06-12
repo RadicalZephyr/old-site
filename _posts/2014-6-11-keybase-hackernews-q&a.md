@@ -9,6 +9,8 @@ in doing crypto stuff for a long time, starting with using an SSH
 keypair instead of a password to access the WWU CS department's
 computer labs remotely.
 
+[Keybase]: https://keybase.io
+
 Learning more about GPG and actually figuring out how to send and
 receive encrypted messages has been on my list of things to learn for
 a while, but every time I had a couple spare minutes and tried to
@@ -565,6 +567,3 @@ ado:
 >belongs to person with twitter account Y, github account Z, etc. As a
 >convenience, it also does encryption and other crypto actions for its
 >users.
-
-
-[Keybase]: https://keybase.io
