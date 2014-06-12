@@ -39,7 +39,10 @@ the discussion that were interesting and relevant into a text
 document. I tried to focus on the questions that got interesting
 responses. I left out many little asides, and tangential discussions.
 
-Without further ado:
+The founders of Keybase are malgorithms and maxtaco. Most of the
+answers are by them, though in some cases I've preserved a chain of
+replies, with only the first marked as a "question". Without further
+ado:
 
 ### General Announcement
 
